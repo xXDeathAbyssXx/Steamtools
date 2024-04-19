@@ -1,0 +1,18 @@
+# Exported from Render on 2024-03-31T22:03:13Z
+services:
+- type: web
+  name: steamstools
+  runtime: node
+  repo: https://github.com/xXDeathAbyssXx/SteamstoolsSvelte
+  branch: main
+  plan: free
+  envVars:
+  - key: NODE_VERSION
+    sync: false
+  region: oregon
+  buildCommand: npm install
+  startCommand: npm run preview
+  domains:
+  - steamstools.org
+  - www.steamstools.org
+version: "1"

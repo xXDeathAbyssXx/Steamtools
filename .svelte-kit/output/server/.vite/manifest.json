@@ -1,0 +1,931 @@
+{
+  ".svelte-kit/generated/server/internal.js": {
+    "file": "internal.js",
+    "imports": [
+      "_internal.js"
+    ],
+    "isEntry": true,
+    "src": ".svelte-kit/generated/server/internal.js"
+  },
+  "CanvasDraw.css": {
+    "file": "_app/immutable/assets/CanvasDraw.f91f6148.css",
+    "src": "CanvasDraw.css"
+  },
+  "Palette.css": {
+    "file": "_app/immutable/assets/Palette.66a8696a.css",
+    "src": "Palette.css"
+  },
+  "_ActionIcons.js": {
+    "file": "chunks/ActionIcons.js",
+    "imports": [
+      "_ssr.js",
+      "_SmuiElement.js"
+    ]
+  },
+  "_Button.js": {
+    "file": "chunks/Button.js",
+    "imports": [
+      "_ssr.js",
+      "_SmuiElement.js"
+    ]
+  },
+  "_CanvasDraw.js": {
+    "css": [
+      "_app/immutable/assets/CanvasDraw.f91f6148.css"
+    ],
+    "file": "chunks/CanvasDraw.js",
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "_Palette.js": {
+    "css": [
+      "_app/immutable/assets/Palette.66a8696a.css"
+    ],
+    "file": "chunks/Palette.js",
+    "imports": [
+      "_ssr.js",
+      "_Button.js",
+      "_SmuiElement.js"
+    ]
+  },
+  "_SmuiElement.js": {
+    "file": "chunks/SmuiElement.js",
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "_internal.js": {
+    "file": "chunks/internal.js",
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "_ssr.js": {
+    "file": "chunks/ssr.js"
+  },
+  "_stores.js": {
+    "file": "chunks/stores.js",
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
+    "file": "entries/fallbacks/error.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_stores.js"
+    ],
+    "isEntry": true,
+    "src": "node_modules/@sveltejs/kit/src/runtime/components/error.svelte"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/server/index.js": {
+    "file": "index.js",
+    "imports": [
+      "_internal.js",
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "node_modules/@sveltejs/kit/src/runtime/server/index.js"
+  },
+  "src/routes/+layout.css": {
+    "file": "_app/immutable/assets/_layout.3df49acf.css",
+    "src": "src/routes/+layout.css"
+  },
+  "src/routes/+layout.svelte": {
+    "css": [
+      "_app/immutable/assets/_layout.3df49acf.css"
+    ],
+    "file": "entries/pages/_layout.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_stores.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/+layout.svelte"
+  },
+  "src/routes/+page.css": {
+    "file": "_app/immutable/assets/_page.0ac22830.css",
+    "src": "src/routes/+page.css"
+  },
+  "src/routes/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.0ac22830.css"
+    ],
+    "file": "entries/pages/_page.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_Button.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/+page.svelte"
+  },
+  "src/routes/+page.ts": {
+    "file": "entries/pages/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/+page.ts"
+  },
+  "src/routes/about/+page.svelte": {
+    "file": "entries/pages/about/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/about/+page.svelte"
+  },
+  "src/routes/about/+page.ts": {
+    "file": "entries/pages/about/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/about/+page.ts"
+  },
+  "src/routes/comicas/+page.css": {
+    "file": "_app/immutable/assets/_page.01599470.css",
+    "src": "src/routes/comicas/+page.css"
+  },
+  "src/routes/comicas/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.01599470.css"
+    ],
+    "file": "entries/pages/comicas/_page.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_SmuiElement.js",
+      "_ActionIcons.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comicas/+page.svelte"
+  },
+  "src/routes/comicas/+page.ts": {
+    "file": "entries/pages/comicas/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comicas/+page.ts"
+  },
+  "src/routes/comicas/agua-para-el-bosque1/+page.css": {
+    "file": "_app/immutable/assets/_page.1fcb351f.css",
+    "src": "src/routes/comicas/agua-para-el-bosque1/+page.css"
+  },
+  "src/routes/comicas/agua-para-el-bosque1/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.1fcb351f.css"
+    ],
+    "file": "entries/pages/comicas/agua-para-el-bosque1/_page.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_Palette.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comicas/agua-para-el-bosque1/+page.svelte"
+  },
+  "src/routes/comicas/agua-para-el-bosque1/+page.ts": {
+    "file": "entries/pages/comicas/agua-para-el-bosque1/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comicas/agua-para-el-bosque1/+page.ts"
+  },
+  "src/routes/comicas/deisy-la-ardilla-valiente1/+page.css": {
+    "file": "_app/immutable/assets/_page.b3b4d0b5.css",
+    "src": "src/routes/comicas/deisy-la-ardilla-valiente1/+page.css"
+  },
+  "src/routes/comicas/deisy-la-ardilla-valiente1/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.b3b4d0b5.css"
+    ],
+    "file": "entries/pages/comicas/deisy-la-ardilla-valiente1/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comicas/deisy-la-ardilla-valiente1/+page.svelte"
+  },
+  "src/routes/comicas/deisy-la-ardilla-valiente1/+page.ts": {
+    "file": "entries/pages/comicas/deisy-la-ardilla-valiente1/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comicas/deisy-la-ardilla-valiente1/+page.ts"
+  },
+  "src/routes/comicas/festival-de-las-charcas1/+page.css": {
+    "file": "_app/immutable/assets/_page.b3cea8de.css",
+    "src": "src/routes/comicas/festival-de-las-charcas1/+page.css"
+  },
+  "src/routes/comicas/festival-de-las-charcas1/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.b3cea8de.css"
+    ],
+    "file": "entries/pages/comicas/festival-de-las-charcas1/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comicas/festival-de-las-charcas1/+page.svelte"
+  },
+  "src/routes/comicas/festival-de-las-charcas1/+page.ts": {
+    "file": "entries/pages/comicas/festival-de-las-charcas1/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comicas/festival-de-las-charcas1/+page.ts"
+  },
+  "src/routes/comicas/festival-de-las-charcas2/+page.css": {
+    "file": "_app/immutable/assets/_page.99c0d2f8.css",
+    "src": "src/routes/comics/yeyo-el-guarumo2/+page.css"
+  },
+  "src/routes/comicas/festival-de-las-charcas2/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.99c0d2f8.css"
+    ],
+    "file": "entries/pages/comicas/festival-de-las-charcas2/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comicas/festival-de-las-charcas2/+page.svelte"
+  },
+  "src/routes/comicas/festival-de-las-charcas2/+page.ts": {
+    "file": "entries/pages/comicas/festival-de-las-charcas2/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comicas/festival-de-las-charcas2/+page.ts"
+  },
+  "src/routes/comicas/ita-la-latita1/+page.css": {
+    "file": "_app/immutable/assets/_page.f0b02cd0.css",
+    "src": "src/routes/comicas/ita-la-latita1/+page.css"
+  },
+  "src/routes/comicas/ita-la-latita1/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.f0b02cd0.css"
+    ],
+    "file": "entries/pages/comicas/ita-la-latita1/_page.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_CanvasDraw.js",
+      "_Palette.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comicas/ita-la-latita1/+page.svelte"
+  },
+  "src/routes/comicas/ita-la-latita1/+page.ts": {
+    "file": "entries/pages/comicas/ita-la-latita1/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comicas/ita-la-latita1/+page.ts"
+  },
+  "src/routes/comicas/la-mariposa-samira1/+page.css": {
+    "file": "_app/immutable/assets/_page.8821e523.css",
+    "src": "src/routes/comicas/la-mariposa-samira1/+page.css"
+  },
+  "src/routes/comicas/la-mariposa-samira1/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.8821e523.css"
+    ],
+    "file": "entries/pages/comicas/la-mariposa-samira1/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comicas/la-mariposa-samira1/+page.svelte"
+  },
+  "src/routes/comicas/la-mariposa-samira1/+page.ts": {
+    "file": "entries/pages/comicas/la-mariposa-samira1/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comicas/la-mariposa-samira1/+page.ts"
+  },
+  "src/routes/comicas/la-mariposa-samira2/+page.css": {
+    "file": "_app/immutable/assets/_page.99c0d2f8.css",
+    "src": "src/routes/comics/yeyo-el-guarumo2/+page.css"
+  },
+  "src/routes/comicas/la-mariposa-samira2/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.99c0d2f8.css"
+    ],
+    "file": "entries/pages/comicas/la-mariposa-samira2/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comicas/la-mariposa-samira2/+page.svelte"
+  },
+  "src/routes/comicas/la-mariposa-samira2/+page.ts": {
+    "file": "entries/pages/comicas/la-mariposa-samira2/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comicas/la-mariposa-samira2/+page.ts"
+  },
+  "src/routes/comicas/pipe-y-la-luna1/+page.css": {
+    "file": "_app/immutable/assets/_page.cc61bace.css",
+    "src": "src/routes/comics/la-laguna-encantada2/+page.css"
+  },
+  "src/routes/comicas/pipe-y-la-luna1/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.cc61bace.css"
+    ],
+    "file": "entries/pages/comicas/pipe-y-la-luna1/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comicas/pipe-y-la-luna1/+page.svelte"
+  },
+  "src/routes/comicas/pipe-y-la-luna1/+page.ts": {
+    "file": "entries/pages/comicas/pipe-y-la-luna1/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comicas/pipe-y-la-luna1/+page.ts"
+  },
+  "src/routes/comicas/pipe-y-la-luna2/+page.css": {
+    "file": "_app/immutable/assets/_page.99c0d2f8.css",
+    "src": "src/routes/comics/yeyo-el-guarumo2/+page.css"
+  },
+  "src/routes/comicas/pipe-y-la-luna2/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.99c0d2f8.css"
+    ],
+    "file": "entries/pages/comicas/pipe-y-la-luna2/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comicas/pipe-y-la-luna2/+page.svelte"
+  },
+  "src/routes/comicas/pipe-y-la-luna2/+page.ts": {
+    "file": "entries/pages/comicas/pipe-y-la-luna2/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comicas/pipe-y-la-luna2/+page.ts"
+  },
+  "src/routes/comicas/pipe-y-la-luna3/+page.css": {
+    "file": "_app/immutable/assets/_page.99c0d2f8.css",
+    "src": "src/routes/comics/yeyo-el-guarumo2/+page.css"
+  },
+  "src/routes/comicas/pipe-y-la-luna3/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.99c0d2f8.css"
+    ],
+    "file": "entries/pages/comicas/pipe-y-la-luna3/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comicas/pipe-y-la-luna3/+page.svelte"
+  },
+  "src/routes/comicas/pipe-y-la-luna3/+page.ts": {
+    "file": "entries/pages/comicas/pipe-y-la-luna3/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comicas/pipe-y-la-luna3/+page.ts"
+  },
+  "src/routes/comics/+page.css": {
+    "file": "_app/immutable/assets/_page.f828fb65.css",
+    "src": "src/routes/comics/+page.css"
+  },
+  "src/routes/comics/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.f828fb65.css"
+    ],
+    "file": "entries/pages/comics/_page.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_ActionIcons.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comics/+page.svelte"
+  },
+  "src/routes/comics/+page.ts": {
+    "file": "entries/pages/comics/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comics/+page.ts"
+  },
+  "src/routes/comics/cangrejos-al-rescate/+page.css": {
+    "file": "_app/immutable/assets/_page.f6bb9de3.css",
+    "src": "src/routes/comics/yeyo-el-guarumo/+page.css"
+  },
+  "src/routes/comics/cangrejos-al-rescate/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.f6bb9de3.css"
+    ],
+    "file": "entries/pages/comics/cangrejos-al-rescate/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comics/cangrejos-al-rescate/+page.svelte"
+  },
+  "src/routes/comics/cangrejos-al-rescate/+page.ts": {
+    "file": "entries/pages/comics/cangrejos-al-rescate/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comics/cangrejos-al-rescate/+page.ts"
+  },
+  "src/routes/comics/cangrejos-al-rescate1/+page.css": {
+    "file": "_app/immutable/assets/_page.394d75b3.css",
+    "src": "src/routes/comics/leo-el-tiburon-gato4/+page.css"
+  },
+  "src/routes/comics/cangrejos-al-rescate1/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.394d75b3.css"
+    ],
+    "file": "entries/pages/comics/cangrejos-al-rescate1/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comics/cangrejos-al-rescate1/+page.svelte"
+  },
+  "src/routes/comics/cangrejos-al-rescate1/+page.ts": {
+    "file": "entries/pages/comics/cangrejos-al-rescate1/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comics/cangrejos-al-rescate1/+page.ts"
+  },
+  "src/routes/comics/el-arbol-barrigon/+page.css": {
+    "file": "_app/immutable/assets/_page.f6bb9de3.css",
+    "src": "src/routes/comics/yeyo-el-guarumo/+page.css"
+  },
+  "src/routes/comics/el-arbol-barrigon/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.f6bb9de3.css"
+    ],
+    "file": "entries/pages/comics/el-arbol-barrigon/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comics/el-arbol-barrigon/+page.svelte"
+  },
+  "src/routes/comics/el-arbol-barrigon/+page.ts": {
+    "file": "entries/pages/comics/el-arbol-barrigon/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comics/el-arbol-barrigon/+page.ts"
+  },
+  "src/routes/comics/el-arbol-barrigon1/+page.css": {
+    "file": "_app/immutable/assets/_page.3cbe218d.css",
+    "src": "src/routes/comics/el-arbol-barrigon1/+page.css"
+  },
+  "src/routes/comics/el-arbol-barrigon1/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.3cbe218d.css"
+    ],
+    "file": "entries/pages/comics/el-arbol-barrigon1/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comics/el-arbol-barrigon1/+page.svelte"
+  },
+  "src/routes/comics/el-arbol-barrigon1/+page.ts": {
+    "file": "entries/pages/comics/el-arbol-barrigon1/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comics/el-arbol-barrigon1/+page.ts"
+  },
+  "src/routes/comics/el-sueno-de-un-barco-llamado-miguel/+page.css": {
+    "file": "_app/immutable/assets/_page.f6bb9de3.css",
+    "src": "src/routes/comics/yeyo-el-guarumo/+page.css"
+  },
+  "src/routes/comics/el-sueno-de-un-barco-llamado-miguel/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.f6bb9de3.css"
+    ],
+    "file": "entries/pages/comics/el-sueno-de-un-barco-llamado-miguel/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comics/el-sueno-de-un-barco-llamado-miguel/+page.svelte"
+  },
+  "src/routes/comics/el-sueno-de-un-barco-llamado-miguel/+page.ts": {
+    "file": "entries/pages/comics/el-sueno-de-un-barco-llamado-miguel/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comics/el-sueno-de-un-barco-llamado-miguel/+page.ts"
+  },
+  "src/routes/comics/el-sueno-de-un-barco-llamado-miguel1/+page.css": {
+    "file": "_app/immutable/assets/_page.394d75b3.css",
+    "src": "src/routes/comics/leo-el-tiburon-gato4/+page.css"
+  },
+  "src/routes/comics/el-sueno-de-un-barco-llamado-miguel1/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.394d75b3.css"
+    ],
+    "file": "entries/pages/comics/el-sueno-de-un-barco-llamado-miguel1/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comics/el-sueno-de-un-barco-llamado-miguel1/+page.svelte"
+  },
+  "src/routes/comics/el-sueno-de-un-barco-llamado-miguel1/+page.ts": {
+    "file": "entries/pages/comics/el-sueno-de-un-barco-llamado-miguel1/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comics/el-sueno-de-un-barco-llamado-miguel1/+page.ts"
+  },
+  "src/routes/comics/el-sueno-de-un-barco-llamado-miguel2/+page.css": {
+    "file": "_app/immutable/assets/_page.9db33822.css",
+    "src": "src/routes/comics/la-mariposa-samira1/+page.css"
+  },
+  "src/routes/comics/el-sueno-de-un-barco-llamado-miguel2/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.9db33822.css"
+    ],
+    "file": "entries/pages/comics/el-sueno-de-un-barco-llamado-miguel2/_page.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_CanvasDraw.js",
+      "_Palette.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comics/el-sueno-de-un-barco-llamado-miguel2/+page.svelte"
+  },
+  "src/routes/comics/el-sueno-de-un-barco-llamado-miguel2/+page.ts": {
+    "file": "entries/pages/comics/el-sueno-de-un-barco-llamado-miguel2/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comics/el-sueno-de-un-barco-llamado-miguel2/+page.ts"
+  },
+  "src/routes/comics/el-sueno-de-un-barco-llamado-miguel3/+page.css": {
+    "file": "_app/immutable/assets/_page.394d75b3.css",
+    "src": "src/routes/comics/leo-el-tiburon-gato4/+page.css"
+  },
+  "src/routes/comics/el-sueno-de-un-barco-llamado-miguel3/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.394d75b3.css"
+    ],
+    "file": "entries/pages/comics/el-sueno-de-un-barco-llamado-miguel3/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comics/el-sueno-de-un-barco-llamado-miguel3/+page.svelte"
+  },
+  "src/routes/comics/el-sueno-de-un-barco-llamado-miguel3/+page.ts": {
+    "file": "entries/pages/comics/el-sueno-de-un-barco-llamado-miguel3/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comics/el-sueno-de-un-barco-llamado-miguel3/+page.ts"
+  },
+  "src/routes/comics/la-laguna-encantada/+page.css": {
+    "file": "_app/immutable/assets/_page.f6bb9de3.css",
+    "src": "src/routes/comics/yeyo-el-guarumo/+page.css"
+  },
+  "src/routes/comics/la-laguna-encantada/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.f6bb9de3.css"
+    ],
+    "file": "entries/pages/comics/la-laguna-encantada/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comics/la-laguna-encantada/+page.svelte"
+  },
+  "src/routes/comics/la-laguna-encantada/+page.ts": {
+    "file": "entries/pages/comics/la-laguna-encantada/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comics/la-laguna-encantada/+page.ts"
+  },
+  "src/routes/comics/la-laguna-encantada1/+page.css": {
+    "file": "_app/immutable/assets/_page.99c0d2f8.css",
+    "src": "src/routes/comics/yeyo-el-guarumo2/+page.css"
+  },
+  "src/routes/comics/la-laguna-encantada1/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.99c0d2f8.css"
+    ],
+    "file": "entries/pages/comics/la-laguna-encantada1/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comics/la-laguna-encantada1/+page.svelte"
+  },
+  "src/routes/comics/la-laguna-encantada1/+page.ts": {
+    "file": "entries/pages/comics/la-laguna-encantada1/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comics/la-laguna-encantada1/+page.ts"
+  },
+  "src/routes/comics/la-laguna-encantada2/+page.css": {
+    "file": "_app/immutable/assets/_page.cc61bace.css",
+    "src": "src/routes/comics/la-laguna-encantada2/+page.css"
+  },
+  "src/routes/comics/la-laguna-encantada2/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.cc61bace.css"
+    ],
+    "file": "entries/pages/comics/la-laguna-encantada2/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comics/la-laguna-encantada2/+page.svelte"
+  },
+  "src/routes/comics/la-laguna-encantada2/+page.ts": {
+    "file": "entries/pages/comics/la-laguna-encantada2/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comics/la-laguna-encantada2/+page.ts"
+  },
+  "src/routes/comics/la-mariposa-samira/+page.css": {
+    "file": "_app/immutable/assets/_page.f6bb9de3.css",
+    "src": "src/routes/comics/yeyo-el-guarumo/+page.css"
+  },
+  "src/routes/comics/la-mariposa-samira/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.f6bb9de3.css"
+    ],
+    "file": "entries/pages/comics/la-mariposa-samira/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comics/la-mariposa-samira/+page.svelte"
+  },
+  "src/routes/comics/la-mariposa-samira/+page.ts": {
+    "file": "entries/pages/comics/la-mariposa-samira/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comics/la-mariposa-samira/+page.ts"
+  },
+  "src/routes/comics/la-mariposa-samira1/+page.css": {
+    "file": "_app/immutable/assets/_page.9db33822.css",
+    "src": "src/routes/comics/la-mariposa-samira1/+page.css"
+  },
+  "src/routes/comics/la-mariposa-samira1/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.9db33822.css"
+    ],
+    "file": "entries/pages/comics/la-mariposa-samira1/_page.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_CanvasDraw.js",
+      "_Palette.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comics/la-mariposa-samira1/+page.svelte"
+  },
+  "src/routes/comics/la-mariposa-samira1/+page.ts": {
+    "file": "entries/pages/comics/la-mariposa-samira1/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comics/la-mariposa-samira1/+page.ts"
+  },
+  "src/routes/comics/leo-el-tiburon-gato/+page.css": {
+    "file": "_app/immutable/assets/_page.f6bb9de3.css",
+    "src": "src/routes/comics/yeyo-el-guarumo/+page.css"
+  },
+  "src/routes/comics/leo-el-tiburon-gato/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.f6bb9de3.css"
+    ],
+    "file": "entries/pages/comics/leo-el-tiburon-gato/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comics/leo-el-tiburon-gato/+page.svelte"
+  },
+  "src/routes/comics/leo-el-tiburon-gato/+page.ts": {
+    "file": "entries/pages/comics/leo-el-tiburon-gato/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comics/leo-el-tiburon-gato/+page.ts"
+  },
+  "src/routes/comics/leo-el-tiburon-gato1/+page.css": {
+    "file": "_app/immutable/assets/_page.394d75b3.css",
+    "src": "src/routes/comics/leo-el-tiburon-gato4/+page.css"
+  },
+  "src/routes/comics/leo-el-tiburon-gato1/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.394d75b3.css"
+    ],
+    "file": "entries/pages/comics/leo-el-tiburon-gato1/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comics/leo-el-tiburon-gato1/+page.svelte"
+  },
+  "src/routes/comics/leo-el-tiburon-gato1/+page.ts": {
+    "file": "entries/pages/comics/leo-el-tiburon-gato1/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comics/leo-el-tiburon-gato1/+page.ts"
+  },
+  "src/routes/comics/leo-el-tiburon-gato2/+page.css": {
+    "file": "_app/immutable/assets/_page.394d75b3.css",
+    "src": "src/routes/comics/leo-el-tiburon-gato4/+page.css"
+  },
+  "src/routes/comics/leo-el-tiburon-gato2/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.394d75b3.css"
+    ],
+    "file": "entries/pages/comics/leo-el-tiburon-gato2/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comics/leo-el-tiburon-gato2/+page.svelte"
+  },
+  "src/routes/comics/leo-el-tiburon-gato2/+page.ts": {
+    "file": "entries/pages/comics/leo-el-tiburon-gato2/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comics/leo-el-tiburon-gato2/+page.ts"
+  },
+  "src/routes/comics/leo-el-tiburon-gato3/+page.css": {
+    "file": "_app/immutable/assets/_page.394d75b3.css",
+    "src": "src/routes/comics/leo-el-tiburon-gato4/+page.css"
+  },
+  "src/routes/comics/leo-el-tiburon-gato3/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.394d75b3.css"
+    ],
+    "file": "entries/pages/comics/leo-el-tiburon-gato3/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comics/leo-el-tiburon-gato3/+page.svelte"
+  },
+  "src/routes/comics/leo-el-tiburon-gato3/+page.ts": {
+    "file": "entries/pages/comics/leo-el-tiburon-gato3/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comics/leo-el-tiburon-gato3/+page.ts"
+  },
+  "src/routes/comics/leo-el-tiburon-gato4/+page.css": {
+    "file": "_app/immutable/assets/_page.394d75b3.css",
+    "src": "src/routes/comics/leo-el-tiburon-gato4/+page.css"
+  },
+  "src/routes/comics/leo-el-tiburon-gato4/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.394d75b3.css"
+    ],
+    "file": "entries/pages/comics/leo-el-tiburon-gato4/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comics/leo-el-tiburon-gato4/+page.svelte"
+  },
+  "src/routes/comics/leo-el-tiburon-gato4/+page.ts": {
+    "file": "entries/pages/comics/leo-el-tiburon-gato4/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comics/leo-el-tiburon-gato4/+page.ts"
+  },
+  "src/routes/comics/yeyo-el-guarumo/+page.css": {
+    "file": "_app/immutable/assets/_page.f6bb9de3.css",
+    "src": "src/routes/comics/yeyo-el-guarumo/+page.css"
+  },
+  "src/routes/comics/yeyo-el-guarumo/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.f6bb9de3.css"
+    ],
+    "file": "entries/pages/comics/yeyo-el-guarumo/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comics/yeyo-el-guarumo/+page.svelte"
+  },
+  "src/routes/comics/yeyo-el-guarumo/+page.ts": {
+    "file": "entries/pages/comics/yeyo-el-guarumo/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comics/yeyo-el-guarumo/+page.ts"
+  },
+  "src/routes/comics/yeyo-el-guarumo1/+page.css": {
+    "file": "_app/immutable/assets/_page.99c0d2f8.css",
+    "src": "src/routes/comics/yeyo-el-guarumo2/+page.css"
+  },
+  "src/routes/comics/yeyo-el-guarumo1/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.99c0d2f8.css"
+    ],
+    "file": "entries/pages/comics/yeyo-el-guarumo1/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comics/yeyo-el-guarumo1/+page.svelte"
+  },
+  "src/routes/comics/yeyo-el-guarumo1/+page.ts": {
+    "file": "entries/pages/comics/yeyo-el-guarumo1/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comics/yeyo-el-guarumo1/+page.ts"
+  },
+  "src/routes/comics/yeyo-el-guarumo2/+page.css": {
+    "file": "_app/immutable/assets/_page.99c0d2f8.css",
+    "src": "src/routes/comics/yeyo-el-guarumo2/+page.css"
+  },
+  "src/routes/comics/yeyo-el-guarumo2/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.99c0d2f8.css"
+    ],
+    "file": "entries/pages/comics/yeyo-el-guarumo2/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/comics/yeyo-el-guarumo2/+page.svelte"
+  },
+  "src/routes/comics/yeyo-el-guarumo2/+page.ts": {
+    "file": "entries/pages/comics/yeyo-el-guarumo2/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/comics/yeyo-el-guarumo2/+page.ts"
+  },
+  "src/routes/contactenos/+page.css": {
+    "file": "_app/immutable/assets/_page.3632c380.css",
+    "src": "src/routes/contactenos/+page.css"
+  },
+  "src/routes/contactenos/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.3632c380.css"
+    ],
+    "file": "entries/pages/contactenos/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/contactenos/+page.svelte"
+  },
+  "src/routes/contactenos/+page.ts": {
+    "file": "entries/pages/contactenos/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/contactenos/+page.ts"
+  },
+  "src/routes/cuentacuentos/+page.css": {
+    "file": "_app/immutable/assets/_page.a24b080a.css",
+    "src": "src/routes/cuentacuentos/+page.css"
+  },
+  "src/routes/cuentacuentos/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.a24b080a.css"
+    ],
+    "file": "entries/pages/cuentacuentos/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/cuentacuentos/+page.svelte"
+  },
+  "src/routes/cuentacuentos/+page.ts": {
+    "file": "entries/pages/cuentacuentos/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/cuentacuentos/+page.ts"
+  },
+  "src/routes/mision-vision/+page.css": {
+    "file": "_app/immutable/assets/_page.d81e5783.css",
+    "src": "src/routes/mision-vision/+page.css"
+  },
+  "src/routes/mision-vision/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.d81e5783.css"
+    ],
+    "file": "entries/pages/mision-vision/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/mision-vision/+page.svelte"
+  },
+  "src/routes/mision-vision/+page.ts": {
+    "file": "entries/pages/mision-vision/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/mision-vision/+page.ts"
+  },
+  "src/routes/objetivos/+page.css": {
+    "file": "_app/immutable/assets/_page.847c855f.css",
+    "src": "src/routes/objetivos/+page.css"
+  },
+  "src/routes/objetivos/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.847c855f.css"
+    ],
+    "file": "entries/pages/objetivos/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/objetivos/+page.svelte"
+  },
+  "src/routes/objetivos/+page.ts": {
+    "file": "entries/pages/objetivos/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/objetivos/+page.ts"
+  },
+  "src/routes/quienes-somos/+page.css": {
+    "file": "_app/immutable/assets/_page.38c5cf5a.css",
+    "src": "src/routes/quienes-somos/+page.css"
+  },
+  "src/routes/quienes-somos/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.38c5cf5a.css"
+    ],
+    "file": "entries/pages/quienes-somos/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/quienes-somos/+page.svelte"
+  },
+  "src/routes/quienes-somos/+page.ts": {
+    "file": "entries/pages/quienes-somos/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/quienes-somos/+page.ts"
+  },
+  "src/routes/resultados/+page.css": {
+    "file": "_app/immutable/assets/_page.057e9a3b.css",
+    "src": "src/routes/resultados/+page.css"
+  },
+  "src/routes/resultados/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.057e9a3b.css"
+    ],
+    "file": "entries/pages/resultados/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/resultados/+page.svelte"
+  },
+  "src/routes/resultados/+page.ts": {
+    "file": "entries/pages/resultados/_page.ts.js",
+    "isEntry": true,
+    "src": "src/routes/resultados/+page.ts"
+  }
+}

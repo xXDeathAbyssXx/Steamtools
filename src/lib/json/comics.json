@@ -1,0 +1,50 @@
+[
+    {
+      "image": "/images/portada_web-3.png",
+      "title": "El barrigón",
+      "comic_url": "/comics/el-arbol-barrigon",
+      "buttons": [{"label": "QUIZ 1 | GRADO 4°", "path": "/comics/el-arbol-barrigon1"}]
+    },
+    {
+
+      "image": "/images/miguel_web-1.webp",
+      "title": "El sueño de un barco llamado Miguel",
+      "comic_url": "/comics/el-sueno-de-un-barco-llamado-miguel",
+      "buttons": [{"label": "QUIZ 1 | GRADO 6°", "path": "/comics/el-sueno-de-un-barco-llamado-miguel1"},{"label": "QUIZ 2 | GRADO 6°", "path": "/comics/el-sueno-de-un-barco-llamado-miguel2"}, {"label": "QUIZ 3 | GRADO 6°", "path": "/comics/el-sueno-de-un-barco-llamado-miguel3"}]
+    }, 
+    {
+  
+        "image": "/images/laguna_web-1.png",
+        "title": "La laguna encantada",
+        "comic_url": "/comics/la-laguna-encantada",
+        "buttons": [{"label": "QUIZ 1 | GRADO 4°", "path": "/comics/la-laguna-encantada1"},{"label": "QUIZ 2 | GRADO 4°", "path": "/comics/la-laguna-encantada2"}]
+      },
+      {
+  
+        "image": "/images/leo-1.png",
+        "title": "Leo, el tiburón gato",
+        "comic_url": "/comics/leo-el-tiburon-gato",
+        "buttons": [{"label": "QUIZ 1 | GRADO 3°", "path": "/comics/leo-el-tiburon-gato1"}, {"label": "QUIZ 2 | GRADO 5°", "path": "/comics/leo-el-tiburon-gato2"},  {"label": "QUIZ 3 | GRADO 5°", "path": "/comics/leo-el-tiburon-gato3"}, {"label": "QUIZ 4 | GRADO 6°", "path": "/comics/leo-el-tiburon-gato4"}]
+      },
+      {
+  
+        "image": "/images/cangrejo_web-2.png",
+        "title": "Cangrejos al rescate",
+        "comic_url": "/comics/cangrejos-al-rescate",
+        "buttons": [{"label": "QUIZ 1 | GRADO 4°", "path": "/comics/cangrejos-al-rescate1"}]
+      },
+      {
+  
+        "image": "/images/portada_web-4.png",
+        "title": "Yeyo, el guarumo",
+        "comic_url": "/comics/yeyo-el-guarumo",
+        "buttons": [{"label": "QUIZ 1 | GRADO 4°", "path": "/comics/yeyo-el-guarumo1"}, {"label": "QUIZ 2 | GRADO 5°", "path": "/comics/yeyo-el-guarumo2"}]
+      },
+      {
+  
+        "image": "/images/samira_web-1.png",
+        "title": "La mariposa Samira",
+        "comic_url": "/comics/la-mariposa-samira",
+        "buttons": [{"label": "QUIZ 1 | GRADO 6°", "path": "/comics/la-mariposa-samira1"}]
+      }
+  ]

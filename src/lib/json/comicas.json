@@ -1,0 +1,38 @@
+[
+    {
+      "image": "/images/comica_festival.jpg",
+      "title": "Festival de las Charcas",
+      "youtube_url": "https://www.youtube.com/watch?v=b_VcgI_uvOI",
+      "buttons": [{"label": "QUIZ 1 | GRADO 1°", "path": "/comicas/festival-de-las-charcas1"}, {"label": "QUIZ 2 | GRADO 3°", "path": "/comicas/festival-de-las-charcas2"}]
+    }, 
+    {
+      "image": "/images/comica_agua.jpg",
+      "title": "Agua para el bosque",
+      "youtube_url": "https://www.youtube.com/watch?v=slIkIOuKzBQ",
+      "buttons": [{"label": "QUIZ 1 | GRADO 2°", "path": "/comicas/agua-para-el-bosque1"}]
+    },
+    {
+      "image": "/images/comica_ardilla.jpg",
+      "title": "Deisy, la ardilla valiente",
+      "youtube_url": "https://www.youtube.com/watch?v=AqF2AcuHK98",
+      "buttons": [{"label": "QUIZ 1 | GRADO 1°", "path": "/comicas/deisy-la-ardilla-valiente1"}]
+    },
+    {
+      "image": "/images/comica_pipe.jpg",
+      "title": "Pipe y la Luna",
+      "youtube_url": "https://www.youtube.com/watch?v=xPCl-m3YV4Y",
+      "buttons": [{"label": "QUIZ 1 | GRADO 2°", "path": "/comicas/pipe-y-la-luna1"}, {"label": "QUIZ 2 | GRADO 3°", "path": "/comicas/pipe-y-la-luna2"}, {"label": "QUIZ 3 | GRADO 3°", "path": "/comicas/pipe-y-la-luna3"}]
+    },
+    {
+      "image": "/images/comica_ita.jpg",
+      "title": "Ita, la latita",
+      "youtube_url": "https://www.youtube.com/watch?v=rBSNoucl1gU",
+      "buttons": [{"label": "QUIZ 1 | GRADO 2° y GRADO 3°", "path": "/comicas/ita-la-latita1"}]
+    },
+    {
+      "image": "/images/comica_samira.jpg",
+      "title": "La mariposa Samira",
+      "youtube_url": "https://www.youtube.com/watch?v=5AMer6A5x5c",
+      "buttons": [{"label": "QUIZ 1 | GRADO 2° y GRADO 3°", "path": "/comicas/la-mariposa-samira1"},{"label": "QUIZ 2 | GRADO 4°", "path": "/comicas/la-mariposa-samira2"}]
+    }
+  ]

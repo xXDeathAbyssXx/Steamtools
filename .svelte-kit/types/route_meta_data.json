@@ -1,0 +1,125 @@
+{
+	"/": [
+		"src/routes/+page.ts"
+	],
+	"/about": [
+		"src/routes/about/+page.ts"
+	],
+	"/comicas": [
+		"src/routes/comicas/+page.ts"
+	],
+	"/comicas/agua-para-el-bosque1": [
+		"src/routes/comicas/agua-para-el-bosque1/+page.ts"
+	],
+	"/comicas/deisy-la-ardilla-valiente1": [
+		"src/routes/comicas/deisy-la-ardilla-valiente1/+page.ts"
+	],
+	"/comicas/festival-de-las-charcas1": [
+		"src/routes/comicas/festival-de-las-charcas1/+page.ts"
+	],
+	"/comicas/festival-de-las-charcas2": [
+		"src/routes/comicas/festival-de-las-charcas2/+page.ts"
+	],
+	"/comicas/ita-la-latita1": [
+		"src/routes/comicas/ita-la-latita1/+page.ts"
+	],
+	"/comicas/la-mariposa-samira1": [
+		"src/routes/comicas/la-mariposa-samira1/+page.ts"
+	],
+	"/comicas/la-mariposa-samira2": [
+		"src/routes/comicas/la-mariposa-samira2/+page.ts"
+	],
+	"/comicas/pipe-y-la-luna1": [
+		"src/routes/comicas/pipe-y-la-luna1/+page.ts"
+	],
+	"/comicas/pipe-y-la-luna2": [
+		"src/routes/comicas/pipe-y-la-luna2/+page.ts"
+	],
+	"/comicas/pipe-y-la-luna3": [
+		"src/routes/comicas/pipe-y-la-luna3/+page.ts"
+	],
+	"/comics": [
+		"src/routes/comics/+page.ts"
+	],
+	"/comics/cangrejos-al-rescate1": [
+		"src/routes/comics/cangrejos-al-rescate1/+page.ts"
+	],
+	"/comics/cangrejos-al-rescate": [
+		"src/routes/comics/cangrejos-al-rescate/+page.ts"
+	],
+	"/comics/el-arbol-barrigon1": [
+		"src/routes/comics/el-arbol-barrigon1/+page.ts"
+	],
+	"/comics/el-arbol-barrigon": [
+		"src/routes/comics/el-arbol-barrigon/+page.ts"
+	],
+	"/comics/el-sueno-de-un-barco-llamado-miguel1": [
+		"src/routes/comics/el-sueno-de-un-barco-llamado-miguel1/+page.ts"
+	],
+	"/comics/el-sueno-de-un-barco-llamado-miguel2": [
+		"src/routes/comics/el-sueno-de-un-barco-llamado-miguel2/+page.ts"
+	],
+	"/comics/el-sueno-de-un-barco-llamado-miguel3": [
+		"src/routes/comics/el-sueno-de-un-barco-llamado-miguel3/+page.ts"
+	],
+	"/comics/el-sueno-de-un-barco-llamado-miguel": [
+		"src/routes/comics/el-sueno-de-un-barco-llamado-miguel/+page.ts"
+	],
+	"/comics/la-laguna-encantada1": [
+		"src/routes/comics/la-laguna-encantada1/+page.ts"
+	],
+	"/comics/la-laguna-encantada2": [
+		"src/routes/comics/la-laguna-encantada2/+page.ts"
+	],
+	"/comics/la-laguna-encantada": [
+		"src/routes/comics/la-laguna-encantada/+page.ts"
+	],
+	"/comics/la-mariposa-samira1": [
+		"src/routes/comics/la-mariposa-samira1/+page.ts"
+	],
+	"/comics/la-mariposa-samira": [
+		"src/routes/comics/la-mariposa-samira/+page.ts"
+	],
+	"/comics/leo-el-tiburon-gato1": [
+		"src/routes/comics/leo-el-tiburon-gato1/+page.ts"
+	],
+	"/comics/leo-el-tiburon-gato2": [
+		"src/routes/comics/leo-el-tiburon-gato2/+page.ts"
+	],
+	"/comics/leo-el-tiburon-gato3": [
+		"src/routes/comics/leo-el-tiburon-gato3/+page.ts"
+	],
+	"/comics/leo-el-tiburon-gato4": [
+		"src/routes/comics/leo-el-tiburon-gato4/+page.ts"
+	],
+	"/comics/leo-el-tiburon-gato": [
+		"src/routes/comics/leo-el-tiburon-gato/+page.ts"
+	],
+	"/comics/yeyo-el-guarumo1": [
+		"src/routes/comics/yeyo-el-guarumo1/+page.ts"
+	],
+	"/comics/yeyo-el-guarumo2": [
+		"src/routes/comics/yeyo-el-guarumo2/+page.ts"
+	],
+	"/comics/yeyo-el-guarumo": [
+		"src/routes/comics/yeyo-el-guarumo/+page.ts"
+	],
+	"/contactenos": [
+		"src/routes/contactenos/+page.ts"
+	],
+	"/cuentacuentos": [
+		"src/routes/cuentacuentos/+page.ts"
+	],
+	"/mision-vision": [
+		"src/routes/mision-vision/+page.ts"
+	],
+	"/objetivos": [
+		"src/routes/objetivos/+page.ts"
+	],
+	"/quienes-somos": [
+		"src/routes/quienes-somos/+page.ts"
+	],
+	"/resultados": [
+		"src/routes/resultados/+page.ts"
+	]
+}
